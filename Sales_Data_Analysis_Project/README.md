@@ -80,8 +80,4 @@ Use your actual query/dashboard results; do not guess. Examples of questions to 
 - Write a short project summary and upload the SQL, dataset, and screenshots to GitHub.
 - Do not publish confidential data; this starter uses synthetic data.
 
-## Resume bullet — use only after completing the project
-**Sales Data Analysis and Power BI Dashboard | SQL, Excel, Power BI**
-Analyzed 600 sales records using SQL and Excel to evaluate monthly revenue, product performance, regional sales, and profitability; built an interactive Power BI dashboard with KPI cards, trend charts, and filters to communicate data-driven insights.
-
 
