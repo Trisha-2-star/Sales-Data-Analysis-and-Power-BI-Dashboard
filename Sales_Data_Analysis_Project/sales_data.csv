@@ -1,0 +1,601 @@
+Order_ID,Order_Date,Region,City,Category,Product,Quantity,Unit_Price,Discount_Pct,Unit_Cost,Payment_Method,Customer_Segment
+ORD0344,2025-01-01,East,Patna,Home & Kitchen,Water Bottle,1,499,0.2,210,Cash on Delivery,Small Business
+ORD0129,2025-01-02,West,Mumbai,Office Supplies,Pen Set,3,199,0.0,80,UPI,Individual
+ORD0444,2025-01-03,North,Chandigarh,Accessories,Cable Pack,4,249,0.15,90,Credit Card,Enterprise
+ORD0414,2025-01-03,North,Chandigarh,Office Supplies,Pen Set,5,199,0.15,80,Credit Card,Individual
+ORD0511,2025-01-03,West,Mumbai,Accessories,Laptop Sleeve,2,899,0.1,420,Debit Card,Individual
+ORD0468,2025-01-04,North,Chandigarh,Electronics,Wireless Mouse,1,799,0.1,420,Debit Card,Enterprise
+ORD0343,2025-01-04,East,Kolkata,Office Supplies,Pen Set,2,199,0.1,80,UPI,Small Business
+ORD0572,2025-01-04,West,Mumbai,Office Supplies,Pen Set,1,199,0.15,80,Debit Card,Enterprise
+ORD0488,2025-01-04,South,Chennai,Office Supplies,Desk Organizer,1,599,0.1,300,Credit Card,Individual
+ORD0500,2025-01-04,East,Patna,Office Supplies,Pen Set,2,199,0.0,80,Cash on Delivery,Enterprise
+ORD0554,2025-01-05,North,Chandigarh,Accessories,Phone Stand,1,399,0.0,150,Credit Card,Small Business
+ORD0507,2025-01-06,South,Bengaluru,Home & Kitchen,Storage Box,1,699,0.1,330,Credit Card,Enterprise
+ORD0353,2025-01-07,North,Delhi,Office Supplies,Desk Organizer,3,599,0.05,300,UPI,Enterprise
+ORD0130,2025-01-08,West,Mumbai,Home & Kitchen,Water Bottle,1,499,0.0,210,Cash on Delivery,Enterprise
+ORD0329,2025-01-09,North,Delhi,Home & Kitchen,Storage Box,1,699,0.0,330,Cash on Delivery,Enterprise
+ORD0218,2025-01-10,East,Bhubaneswar,Accessories,Phone Stand,2,399,0.0,150,Cash on Delivery,Enterprise
+ORD0175,2025-01-10,West,Mumbai,Office Supplies,Office Chair,1,5999,0.05,3900,Debit Card,Individual
+ORD0420,2025-01-11,North,Chandigarh,Electronics,USB Hub,2,999,0.0,560,Debit Card,Small Business
+ORD0291,2025-01-13,East,Kolkata,Home & Kitchen,LED Lamp,4,899,0.0,430,Credit Card,Small Business
+ORD0196,2025-01-14,West,Ahmedabad,Home & Kitchen,LED Lamp,3,899,0.1,430,UPI,Individual
+ORD0326,2025-01-14,West,Mumbai,Office Supplies,Office Chair,1,5999,0.0,3900,Credit Card,Small Business
+ORD0098,2025-01-15,South,Bengaluru,Office Supplies,Pen Set,2,199,0.1,80,UPI,Individual
+ORD0074,2025-01-15,East,Bhubaneswar,Office Supplies,Office Chair,1,5999,0.15,3900,Debit Card,Small Business
+ORD0397,2025-01-16,South,Chennai,Accessories,Cable Pack,1,249,0.15,90,Debit Card,Small Business
+ORD0356,2025-01-16,East,Patna,Accessories,Phone Stand,1,399,0.15,150,Debit Card,Small Business
+ORD0377,2025-01-16,East,Patna,Office Supplies,Office Chair,1,5999,0.0,3900,Credit Card,Individual
+ORD0242,2025-01-17,West,Pune,Office Supplies,Desk Organizer,3,599,0.2,300,Cash on Delivery,Small Business
+ORD0370,2025-01-17,South,Bengaluru,Home & Kitchen,Storage Box,2,699,0.0,330,Cash on Delivery,Individual
+ORD0307,2025-01-17,East,Bhubaneswar,Home & Kitchen,Water Bottle,2,499,0.2,210,Credit Card,Individual
+ORD0304,2025-01-17,West,Mumbai,Home & Kitchen,Storage Box,3,699,0.1,330,Cash on Delivery,Enterprise
+ORD0125,2025-01-17,West,Mumbai,Accessories,Cable Pack,5,249,0.15,90,UPI,Enterprise
+ORD0262,2025-01-18,North,Chandigarh,Electronics,Wireless Mouse,2,799,0.15,420,Credit Card,Individual
+ORD0537,2025-01-18,West,Pune,Accessories,Cable Pack,5,249,0.1,90,Debit Card,Enterprise
+ORD0288,2025-01-19,West,Ahmedabad,Electronics,Wireless Mouse,3,799,0.1,420,Debit Card,Individual
+ORD0040,2025-01-19,West,Ahmedabad,Office Supplies,Office Chair,1,5999,0.05,3900,UPI,Small Business
+ORD0438,2025-01-19,North,Delhi,Home & Kitchen,Storage Box,2,699,0.05,330,Debit Card,Small Business
+ORD0566,2025-01-21,North,Jaipur,Electronics,Keyboard,5,1299,0.0,720,Credit Card,Enterprise
+ORD0306,2025-01-22,East,Patna,Office Supplies,Office Chair,1,5999,0.15,3900,Credit Card,Small Business
+ORD0202,2025-01-22,North,Delhi,Electronics,Headphones,2,2499,0.15,1500,Cash on Delivery,Enterprise
+ORD0132,2025-01-23,West,Pune,Electronics,Wireless Mouse,5,799,0.15,420,Cash on Delivery,Enterprise
+ORD0248,2025-01-23,East,Bhubaneswar,Office Supplies,Desk Organizer,3,599,0.15,300,Credit Card,Enterprise
+ORD0211,2025-01-24,East,Kolkata,Office Supplies,Pen Set,2,199,0.0,80,Cash on Delivery,Enterprise
+ORD0081,2025-01-24,North,Chandigarh,Home & Kitchen,Storage Box,2,699,0.15,330,UPI,Individual
+ORD0013,2025-01-25,North,Delhi,Office Supplies,Office Chair,2,5999,0.05,3900,Cash on Delivery,Enterprise
+ORD0176,2025-01-25,South,Chennai,Accessories,Laptop Sleeve,1,899,0.15,420,UPI,Enterprise
+ORD0207,2025-01-26,West,Pune,Accessories,Phone Stand,5,399,0.15,150,Debit Card,Enterprise
+ORD0217,2025-01-27,East,Kolkata,Accessories,Phone Stand,3,399,0.0,150,UPI,Individual
+ORD0139,2025-01-27,West,Ahmedabad,Home & Kitchen,Mixer Grinder,1,3499,0.1,2300,Credit Card,Enterprise
+ORD0454,2025-01-28,North,Chandigarh,Home & Kitchen,Storage Box,2,699,0.15,330,Cash on Delivery,Individual
+ORD0025,2025-01-28,North,Delhi,Accessories,Backpack,3,1799,0.0,950,Credit Card,Individual
+ORD0302,2025-01-28,West,Mumbai,Accessories,Phone Stand,1,399,0.05,150,Cash on Delivery,Small Business
+ORD0379,2025-01-28,West,Mumbai,Accessories,Laptop Sleeve,1,899,0.1,420,Cash on Delivery,Individual
+ORD0585,2025-01-28,South,Bengaluru,Office Supplies,Pen Set,1,199,0.1,80,UPI,Small Business
+ORD0535,2025-01-28,North,Jaipur,Electronics,Wireless Mouse,1,799,0.0,420,Cash on Delivery,Small Business
+ORD0439,2025-01-28,South,Chennai,Home & Kitchen,LED Lamp,3,899,0.05,430,Cash on Delivery,Individual
+ORD0362,2025-01-29,South,Bengaluru,Accessories,Backpack,4,1799,0.2,950,Credit Card,Individual
+ORD0240,2025-01-30,East,Patna,Home & Kitchen,Water Bottle,2,499,0.15,210,Credit Card,Enterprise
+ORD0018,2025-01-30,South,Bengaluru,Electronics,Wireless Mouse,3,799,0.15,420,Credit Card,Individual
+ORD0345,2025-01-31,South,Bengaluru,Home & Kitchen,Water Bottle,1,499,0.0,210,Cash on Delivery,Enterprise
+ORD0219,2025-02-01,South,Bengaluru,Office Supplies,Pen Set,5,199,0.05,80,Cash on Delivery,Small Business
+ORD0383,2025-02-01,South,Bengaluru,Electronics,Wireless Mouse,3,799,0.15,420,Cash on Delivery,Enterprise
+ORD0280,2025-02-02,South,Chennai,Home & Kitchen,LED Lamp,1,899,0.15,430,Debit Card,Small Business
+ORD0293,2025-02-04,West,Mumbai,Electronics,Wireless Mouse,4,799,0.1,420,Credit Card,Enterprise
+ORD0035,2025-02-05,South,Chennai,Home & Kitchen,Storage Box,2,699,0.1,330,Debit Card,Enterprise
+ORD0582,2025-02-06,West,Pune,Home & Kitchen,Water Bottle,1,499,0.05,210,Debit Card,Small Business
+ORD0241,2025-02-07,North,Jaipur,Home & Kitchen,Water Bottle,2,499,0.0,210,UPI,Small Business
+ORD0034,2025-02-07,North,Jaipur,Electronics,Wireless Mouse,2,799,0.1,420,Credit Card,Small Business
+ORD0466,2025-02-07,North,Delhi,Home & Kitchen,Water Bottle,2,499,0.0,210,Debit Card,Small Business
+ORD0275,2025-02-07,North,Jaipur,Office Supplies,Office Chair,3,5999,0.1,3900,Cash on Delivery,Small Business
+ORD0154,2025-02-08,South,Bengaluru,Accessories,Cable Pack,3,249,0.15,90,Cash on Delivery,Enterprise
+ORD0157,2025-02-09,North,Chandigarh,Accessories,Cable Pack,2,249,0.2,90,UPI,Small Business
+ORD0575,2025-02-09,West,Pune,Office Supplies,Office Chair,3,5999,0.1,3900,UPI,Enterprise
+ORD0007,2025-02-10,South,Hyderabad,Accessories,Backpack,2,1799,0.15,950,Credit Card,Small Business
+ORD0066,2025-02-11,East,Kolkata,Electronics,Headphones,1,2499,0.0,1500,UPI,Individual
+ORD0162,2025-02-11,South,Chennai,Home & Kitchen,LED Lamp,1,899,0.1,430,UPI,Small Business
+ORD0331,2025-02-12,West,Mumbai,Office Supplies,Desk Organizer,2,599,0.05,300,UPI,Small Business
+ORD0159,2025-02-13,South,Hyderabad,Office Supplies,Office Chair,5,5999,0.1,3900,Credit Card,Small Business
+ORD0052,2025-02-13,West,Ahmedabad,Home & Kitchen,Water Bottle,3,499,0.15,210,Debit Card,Individual
+ORD0358,2025-02-14,West,Pune,Office Supplies,Office Chair,1,5999,0.15,3900,Credit Card,Enterprise
+ORD0277,2025-02-14,South,Chennai,Accessories,Cable Pack,1,249,0.0,90,UPI,Enterprise
+ORD0172,2025-02-16,South,Chennai,Home & Kitchen,Water Bottle,2,499,0.05,210,Debit Card,Individual
+ORD0108,2025-02-16,East,Kolkata,Electronics,USB Hub,1,999,0.05,560,UPI,Individual
+ORD0555,2025-02-16,West,Ahmedabad,Electronics,Wireless Mouse,1,799,0.0,420,UPI,Individual
+ORD0092,2025-02-16,South,Bengaluru,Electronics,Headphones,2,2499,0.15,1500,Credit Card,Small Business
+ORD0254,2025-02-17,South,Hyderabad,Home & Kitchen,LED Lamp,3,899,0.1,430,UPI,Individual
+ORD0314,2025-02-17,East,Patna,Home & Kitchen,Water Bottle,3,499,0.05,210,Cash on Delivery,Individual
+ORD0269,2025-02-18,North,Delhi,Office Supplies,Office Chair,1,5999,0.15,3900,Debit Card,Enterprise
+ORD0380,2025-02-19,North,Delhi,Office Supplies,Pen Set,5,199,0.05,80,UPI,Small Business
+ORD0440,2025-02-19,South,Hyderabad,Home & Kitchen,Mixer Grinder,3,3499,0.2,2300,Debit Card,Enterprise
+ORD0005,2025-02-19,West,Pune,Home & Kitchen,Water Bottle,3,499,0.1,210,Cash on Delivery,Individual
+ORD0563,2025-02-20,North,Chandigarh,Accessories,Cable Pack,2,249,0.1,90,Debit Card,Individual
+ORD0474,2025-02-20,South,Bengaluru,Accessories,Backpack,1,1799,0.1,950,Credit Card,Individual
+ORD0105,2025-02-21,East,Kolkata,Office Supplies,Office Chair,4,5999,0.2,3900,UPI,Small Business
+ORD0546,2025-02-22,West,Pune,Office Supplies,Office Chair,3,5999,0.0,3900,Credit Card,Individual
+ORD0297,2025-02-22,South,Chennai,Home & Kitchen,Storage Box,2,699,0.05,330,Cash on Delivery,Enterprise
+ORD0349,2025-02-24,South,Chennai,Accessories,Backpack,2,1799,0.1,950,Credit Card,Small Business
+ORD0225,2025-02-25,South,Hyderabad,Electronics,Keyboard,2,1299,0.0,720,Cash on Delivery,Small Business
+ORD0133,2025-02-25,East,Patna,Accessories,Laptop Sleeve,4,899,0.05,420,Credit Card,Individual
+ORD0373,2025-02-25,North,Delhi,Accessories,Cable Pack,3,249,0.2,90,Cash on Delivery,Small Business
+ORD0216,2025-02-26,East,Patna,Home & Kitchen,Water Bottle,2,499,0.05,210,Credit Card,Enterprise
+ORD0131,2025-02-28,North,Jaipur,Accessories,Backpack,2,1799,0.0,950,Credit Card,Enterprise
+ORD0099,2025-02-28,East,Kolkata,Office Supplies,Office Chair,4,5999,0.05,3900,Debit Card,Small Business
+ORD0285,2025-02-28,South,Bengaluru,Office Supplies,Notebook Pack,5,299,0.05,145,Credit Card,Small Business
+ORD0473,2025-02-28,South,Bengaluru,Electronics,USB Hub,2,999,0.0,560,UPI,Small Business
+ORD0089,2025-02-28,South,Bengaluru,Office Supplies,Pen Set,3,199,0.0,80,Credit Card,Small Business
+ORD0083,2025-02-28,North,Jaipur,Accessories,Laptop Sleeve,2,899,0.1,420,Credit Card,Individual
+ORD0046,2025-03-01,West,Mumbai,Home & Kitchen,Water Bottle,1,499,0.05,210,Debit Card,Small Business
+ORD0335,2025-03-02,North,Jaipur,Accessories,Backpack,2,1799,0.05,950,UPI,Small Business
+ORD0256,2025-03-02,East,Kolkata,Office Supplies,Office Chair,4,5999,0.1,3900,Debit Card,Small Business
+ORD0521,2025-03-03,East,Bhubaneswar,Electronics,Wireless Mouse,3,799,0.05,420,UPI,Small Business
+ORD0223,2025-03-04,East,Bhubaneswar,Home & Kitchen,Storage Box,1,699,0.05,330,UPI,Small Business
+ORD0184,2025-03-05,West,Pune,Accessories,Cable Pack,4,249,0.05,90,Credit Card,Small Business
+ORD0134,2025-03-06,West,Ahmedabad,Home & Kitchen,LED Lamp,5,899,0.1,430,Cash on Delivery,Enterprise
+ORD0491,2025-03-07,South,Hyderabad,Electronics,Keyboard,1,1299,0.05,720,Credit Card,Enterprise
+ORD0581,2025-03-08,South,Chennai,Office Supplies,Office Chair,2,5999,0.1,3900,Credit Card,Individual
+ORD0432,2025-03-08,East,Bhubaneswar,Electronics,USB Hub,2,999,0.0,560,Debit Card,Individual
+ORD0400,2025-03-09,South,Bengaluru,Electronics,Keyboard,1,1299,0.15,720,Debit Card,Enterprise
+ORD0311,2025-03-09,South,Hyderabad,Home & Kitchen,Storage Box,3,699,0.1,330,Cash on Delivery,Individual
+ORD0328,2025-03-09,East,Patna,Accessories,Backpack,2,1799,0.0,950,Cash on Delivery,Individual
+ORD0526,2025-03-10,West,Pune,Home & Kitchen,Mixer Grinder,2,3499,0.1,2300,Cash on Delivery,Individual
+ORD0557,2025-03-10,West,Mumbai,Accessories,Cable Pack,2,249,0.1,90,Cash on Delivery,Individual
+ORD0447,2025-03-10,South,Chennai,Home & Kitchen,Mixer Grinder,3,3499,0.2,2300,Credit Card,Individual
+ORD0056,2025-03-10,East,Patna,Home & Kitchen,LED Lamp,2,899,0.1,430,Cash on Delivery,Enterprise
+ORD0191,2025-03-12,West,Pune,Home & Kitchen,Mixer Grinder,1,3499,0.0,2300,Credit Card,Small Business
+ORD0174,2025-03-12,North,Jaipur,Accessories,Phone Stand,3,399,0.05,150,UPI,Individual
+ORD0594,2025-03-12,North,Chandigarh,Accessories,Phone Stand,2,399,0.1,150,Cash on Delivery,Small Business
+ORD0272,2025-03-13,North,Chandigarh,Home & Kitchen,Water Bottle,1,499,0.0,210,UPI,Small Business
+ORD0233,2025-03-13,East,Bhubaneswar,Office Supplies,Notebook Pack,1,299,0.0,145,Debit Card,Small Business
+ORD0189,2025-03-15,East,Kolkata,Office Supplies,Notebook Pack,1,299,0.1,145,Debit Card,Small Business
+ORD0584,2025-03-16,East,Kolkata,Office Supplies,Desk Organizer,3,599,0.0,300,UPI,Individual
+ORD0259,2025-03-16,North,Jaipur,Accessories,Backpack,1,1799,0.05,950,Cash on Delivery,Enterprise
+ORD0481,2025-03-18,West,Pune,Office Supplies,Pen Set,1,199,0.1,80,UPI,Small Business
+ORD0072,2025-03-20,East,Kolkata,Home & Kitchen,LED Lamp,2,899,0.15,430,Debit Card,Small Business
+ORD0236,2025-03-20,East,Patna,Home & Kitchen,LED Lamp,3,899,0.15,430,Credit Card,Individual
+ORD0042,2025-03-21,South,Hyderabad,Office Supplies,Office Chair,1,5999,0.1,3900,Debit Card,Small Business
+ORD0015,2025-03-22,East,Kolkata,Home & Kitchen,Storage Box,2,699,0.0,330,Debit Card,Enterprise
+ORD0413,2025-03-23,East,Kolkata,Office Supplies,Office Chair,2,5999,0.05,3900,Cash on Delivery,Small Business
+ORD0398,2025-03-25,West,Ahmedabad,Electronics,Headphones,1,2499,0.0,1500,Credit Card,Individual
+ORD0543,2025-03-25,East,Bhubaneswar,Office Supplies,Pen Set,1,199,0.1,80,Debit Card,Small Business
+ORD0435,2025-03-26,North,Jaipur,Home & Kitchen,Storage Box,1,699,0.05,330,Credit Card,Enterprise
+ORD0464,2025-03-27,North,Chandigarh,Electronics,Keyboard,3,1299,0.15,720,Cash on Delivery,Individual
+ORD0508,2025-03-28,North,Jaipur,Office Supplies,Notebook Pack,5,299,0.0,145,Debit Card,Small Business
+ORD0261,2025-03-28,West,Mumbai,Office Supplies,Office Chair,1,5999,0.15,3900,UPI,Enterprise
+ORD0493,2025-03-29,South,Chennai,Office Supplies,Desk Organizer,2,599,0.1,300,Credit Card,Enterprise
+ORD0376,2025-03-29,East,Kolkata,Electronics,Wireless Mouse,1,799,0.2,420,Cash on Delivery,Enterprise
+ORD0588,2025-03-29,North,Jaipur,Office Supplies,Pen Set,1,199,0.1,80,UPI,Individual
+ORD0299,2025-03-30,West,Ahmedabad,Electronics,Keyboard,1,1299,0.0,720,UPI,Individual
+ORD0456,2025-03-30,North,Jaipur,Electronics,USB Hub,1,999,0.05,560,Credit Card,Enterprise
+ORD0390,2025-03-30,West,Pune,Office Supplies,Office Chair,1,5999,0.15,3900,Debit Card,Enterprise
+ORD0220,2025-03-30,East,Patna,Home & Kitchen,Mixer Grinder,3,3499,0.15,2300,Debit Card,Enterprise
+ORD0050,2025-03-31,West,Pune,Electronics,Headphones,1,2499,0.05,1500,Debit Card,Small Business
+ORD0352,2025-03-31,North,Jaipur,Accessories,Phone Stand,1,399,0.0,150,Credit Card,Individual
+ORD0366,2025-04-01,West,Mumbai,Electronics,Keyboard,2,1299,0.15,720,UPI,Enterprise
+ORD0560,2025-04-05,North,Chandigarh,Home & Kitchen,Storage Box,1,699,0.0,330,Cash on Delivery,Individual
+ORD0523,2025-04-05,East,Bhubaneswar,Office Supplies,Office Chair,3,5999,0.05,3900,Cash on Delivery,Small Business
+ORD0489,2025-04-06,South,Chennai,Electronics,Keyboard,2,1299,0.05,720,UPI,Small Business
+ORD0364,2025-04-07,East,Patna,Home & Kitchen,Storage Box,2,699,0.0,330,Credit Card,Enterprise
+ORD0583,2025-04-08,West,Pune,Electronics,Headphones,1,2499,0.05,1500,Cash on Delivery,Enterprise
+ORD0386,2025-04-09,South,Hyderabad,Accessories,Laptop Sleeve,5,899,0.05,420,Credit Card,Enterprise
+ORD0410,2025-04-10,North,Chandigarh,Accessories,Backpack,2,1799,0.15,950,Credit Card,Individual
+ORD0080,2025-04-10,West,Mumbai,Home & Kitchen,Storage Box,1,699,0.1,330,Credit Card,Small Business
+ORD0053,2025-04-12,South,Hyderabad,Electronics,Keyboard,5,1299,0.1,720,UPI,Small Business
+ORD0213,2025-04-12,East,Patna,Electronics,Wireless Mouse,1,799,0.1,420,Cash on Delivery,Enterprise
+ORD0411,2025-04-13,West,Pune,Accessories,Phone Stand,1,399,0.1,150,UPI,Small Business
+ORD0118,2025-04-13,South,Bengaluru,Home & Kitchen,Mixer Grinder,3,3499,0.05,2300,Cash on Delivery,Small Business
+ORD0044,2025-04-13,East,Bhubaneswar,Home & Kitchen,Storage Box,1,699,0.1,330,Cash on Delivery,Small Business
+ORD0033,2025-04-15,West,Mumbai,Home & Kitchen,LED Lamp,1,899,0.1,430,Cash on Delivery,Small Business
+ORD0147,2025-04-15,West,Mumbai,Office Supplies,Pen Set,1,199,0.0,80,Cash on Delivery,Enterprise
+ORD0128,2025-04-16,North,Chandigarh,Office Supplies,Desk Organizer,3,599,0.0,300,Credit Card,Enterprise
+ORD0465,2025-04-16,East,Patna,Electronics,Keyboard,1,1299,0.1,720,UPI,Individual
+ORD0517,2025-04-16,South,Hyderabad,Office Supplies,Pen Set,1,199,0.0,80,UPI,Enterprise
+ORD0239,2025-04-16,East,Kolkata,Accessories,Laptop Sleeve,2,899,0.1,420,Cash on Delivery,Enterprise
+ORD0247,2025-04-16,North,Delhi,Electronics,USB Hub,2,999,0.1,560,UPI,Individual
+ORD0448,2025-04-18,West,Ahmedabad,Home & Kitchen,Storage Box,5,699,0.1,330,Credit Card,Enterprise
+ORD0472,2025-04-18,West,Mumbai,Accessories,Phone Stand,1,399,0.0,150,Debit Card,Individual
+ORD0041,2025-04-18,South,Bengaluru,Electronics,Headphones,3,2499,0.15,1500,Cash on Delivery,Enterprise
+ORD0460,2025-04-20,West,Pune,Home & Kitchen,Mixer Grinder,1,3499,0.15,2300,Cash on Delivery,Enterprise
+ORD0504,2025-04-20,East,Bhubaneswar,Electronics,Keyboard,2,1299,0.1,720,UPI,Individual
+ORD0516,2025-04-22,West,Mumbai,Office Supplies,Office Chair,3,5999,0.0,3900,Credit Card,Small Business
+ORD0365,2025-04-23,North,Chandigarh,Accessories,Laptop Sleeve,1,899,0.1,420,Credit Card,Small Business
+ORD0022,2025-04-23,North,Delhi,Electronics,Keyboard,1,1299,0.0,720,Debit Card,Individual
+ORD0122,2025-04-24,North,Chandigarh,Accessories,Backpack,2,1799,0.0,950,UPI,Individual
+ORD0477,2025-04-24,East,Bhubaneswar,Home & Kitchen,Storage Box,3,699,0.05,330,Cash on Delivery,Small Business
+ORD0384,2025-04-27,North,Jaipur,Accessories,Cable Pack,2,249,0.0,90,Debit Card,Individual
+ORD0418,2025-04-27,South,Bengaluru,Office Supplies,Desk Organizer,3,599,0.1,300,Credit Card,Individual
+ORD0536,2025-04-28,South,Bengaluru,Home & Kitchen,LED Lamp,2,899,0.0,430,Credit Card,Individual
+ORD0426,2025-04-29,East,Bhubaneswar,Home & Kitchen,LED Lamp,1,899,0.15,430,UPI,Small Business
+ORD0391,2025-05-02,North,Chandigarh,Accessories,Backpack,4,1799,0.0,950,Debit Card,Small Business
+ORD0363,2025-05-02,West,Ahmedabad,Home & Kitchen,Water Bottle,3,499,0.05,210,Credit Card,Enterprise
+ORD0103,2025-05-03,East,Kolkata,Accessories,Laptop Sleeve,1,899,0.05,420,Cash on Delivery,Small Business
+ORD0076,2025-05-04,East,Patna,Accessories,Cable Pack,3,249,0.0,90,Credit Card,Small Business
+ORD0180,2025-05-04,North,Chandigarh,Home & Kitchen,Storage Box,1,699,0.1,330,Credit Card,Enterprise
+ORD0294,2025-05-05,South,Bengaluru,Office Supplies,Pen Set,2,199,0.2,80,Credit Card,Small Business
+ORD0073,2025-05-06,North,Jaipur,Accessories,Phone Stand,3,399,0.1,150,Cash on Delivery,Small Business
+ORD0260,2025-05-06,East,Patna,Home & Kitchen,Mixer Grinder,3,3499,0.05,2300,Cash on Delivery,Small Business
+ORD0281,2025-05-07,East,Patna,Office Supplies,Office Chair,1,5999,0.05,3900,Cash on Delivery,Small Business
+ORD0032,2025-05-07,North,Chandigarh,Electronics,USB Hub,2,999,0.1,560,Debit Card,Small Business
+ORD0067,2025-05-07,South,Hyderabad,Office Supplies,Desk Organizer,1,599,0.1,300,Credit Card,Small Business
+ORD0574,2025-05-08,South,Chennai,Home & Kitchen,Water Bottle,2,499,0.1,210,Credit Card,Enterprise
+ORD0014,2025-05-09,North,Chandigarh,Electronics,Headphones,3,2499,0.05,1500,Debit Card,Small Business
+ORD0487,2025-05-09,East,Kolkata,Accessories,Backpack,3,1799,0.05,950,Cash on Delivery,Enterprise
+ORD0113,2025-05-09,East,Bhubaneswar,Office Supplies,Office Chair,4,5999,0.0,3900,Cash on Delivery,Enterprise
+ORD0534,2025-05-09,North,Delhi,Office Supplies,Office Chair,1,5999,0.0,3900,Cash on Delivery,Enterprise
+ORD0442,2025-05-11,South,Hyderabad,Electronics,USB Hub,1,999,0.15,560,Credit Card,Enterprise
+ORD0457,2025-05-11,North,Jaipur,Accessories,Phone Stand,1,399,0.15,150,UPI,Enterprise
+ORD0290,2025-05-13,South,Bengaluru,Office Supplies,Office Chair,1,5999,0.05,3900,Credit Card,Small Business
+ORD0387,2025-05-13,West,Ahmedabad,Electronics,Wireless Mouse,2,799,0.05,420,Debit Card,Small Business
+ORD0404,2025-05-14,West,Mumbai,Office Supplies,Desk Organizer,4,599,0.15,300,Cash on Delivery,Enterprise
+ORD0540,2025-05-14,South,Chennai,Electronics,Wireless Mouse,2,799,0.15,420,Credit Card,Small Business
+ORD0486,2025-05-15,South,Chennai,Accessories,Backpack,2,1799,0.15,950,UPI,Enterprise
+ORD0106,2025-05-16,West,Ahmedabad,Accessories,Laptop Sleeve,4,899,0.15,420,Cash on Delivery,Small Business
+ORD0484,2025-05-16,West,Mumbai,Electronics,Keyboard,2,1299,0.15,720,Cash on Delivery,Small Business
+ORD0266,2025-05-17,East,Kolkata,Home & Kitchen,LED Lamp,2,899,0.0,430,Credit Card,Small Business
+ORD0451,2025-05-17,South,Chennai,Home & Kitchen,Storage Box,3,699,0.1,330,Debit Card,Individual
+ORD0310,2025-05-17,North,Delhi,Accessories,Laptop Sleeve,5,899,0.15,420,Credit Card,Enterprise
+ORD0393,2025-05-18,East,Patna,Electronics,Keyboard,2,1299,0.15,720,Cash on Delivery,Enterprise
+ORD0360,2025-05-19,South,Hyderabad,Home & Kitchen,Storage Box,1,699,0.15,330,Debit Card,Individual
+ORD0101,2025-05-22,East,Bhubaneswar,Home & Kitchen,Water Bottle,1,499,0.05,210,Cash on Delivery,Individual
+ORD0246,2025-05-22,South,Bengaluru,Electronics,Wireless Mouse,3,799,0.05,420,UPI,Individual
+ORD0045,2025-05-23,North,Jaipur,Home & Kitchen,LED Lamp,3,899,0.15,430,Debit Card,Individual
+ORD0212,2025-05-24,North,Delhi,Electronics,USB Hub,1,999,0.2,560,Debit Card,Individual
+ORD0392,2025-05-24,East,Patna,Electronics,Keyboard,1,1299,0.2,720,Cash on Delivery,Small Business
+ORD0475,2025-05-26,North,Delhi,Home & Kitchen,LED Lamp,2,899,0.1,430,Debit Card,Enterprise
+ORD0230,2025-05-26,East,Patna,Accessories,Phone Stand,4,399,0.05,150,Credit Card,Individual
+ORD0499,2025-05-26,East,Bhubaneswar,Office Supplies,Notebook Pack,3,299,0.15,145,UPI,Enterprise
+ORD0510,2025-05-26,West,Pune,Home & Kitchen,Storage Box,2,699,0.0,330,Cash on Delivery,Enterprise
+ORD0330,2025-05-27,East,Bhubaneswar,Accessories,Laptop Sleeve,2,899,0.1,420,Credit Card,Small Business
+ORD0193,2025-05-27,East,Kolkata,Electronics,Keyboard,4,1299,0.05,720,Cash on Delivery,Individual
+ORD0541,2025-05-27,East,Patna,Electronics,USB Hub,5,999,0.05,560,UPI,Small Business
+ORD0515,2025-05-28,North,Jaipur,Home & Kitchen,Water Bottle,2,499,0.0,210,Debit Card,Small Business
+ORD0249,2025-05-29,South,Bengaluru,Home & Kitchen,Mixer Grinder,1,3499,0.15,2300,Credit Card,Small Business
+ORD0286,2025-05-30,North,Jaipur,Accessories,Phone Stand,2,399,0.0,150,Credit Card,Enterprise
+ORD0542,2025-05-30,South,Hyderabad,Home & Kitchen,Storage Box,2,699,0.1,330,Cash on Delivery,Individual
+ORD0186,2025-05-31,West,Mumbai,Electronics,Headphones,3,2499,0.05,1500,Cash on Delivery,Individual
+ORD0182,2025-05-31,South,Hyderabad,Office Supplies,Notebook Pack,1,299,0.05,145,Cash on Delivery,Enterprise
+ORD0245,2025-06-02,East,Patna,Accessories,Cable Pack,3,249,0.0,90,Debit Card,Individual
+ORD0215,2025-06-03,West,Ahmedabad,Accessories,Backpack,2,1799,0.0,950,Debit Card,Enterprise
+ORD0271,2025-06-03,South,Bengaluru,Office Supplies,Office Chair,3,5999,0.1,3900,Cash on Delivery,Enterprise
+ORD0250,2025-06-03,West,Mumbai,Office Supplies,Office Chair,2,5999,0.0,3900,Debit Card,Enterprise
+ORD0469,2025-06-04,North,Jaipur,Accessories,Cable Pack,2,249,0.1,90,Cash on Delivery,Individual
+ORD0234,2025-06-04,North,Jaipur,Home & Kitchen,Storage Box,1,699,0.0,330,Debit Card,Individual
+ORD0123,2025-06-05,East,Kolkata,Electronics,Keyboard,4,1299,0.0,720,Cash on Delivery,Small Business
+ORD0201,2025-06-05,North,Chandigarh,Office Supplies,Desk Organizer,1,599,0.1,300,Debit Card,Enterprise
+ORD0350,2025-06-07,East,Bhubaneswar,Electronics,Wireless Mouse,1,799,0.1,420,UPI,Individual
+ORD0596,2025-06-08,South,Chennai,Office Supplies,Desk Organizer,1,599,0.1,300,UPI,Individual
+ORD0049,2025-06-08,East,Bhubaneswar,Accessories,Backpack,2,1799,0.0,950,Cash on Delivery,Enterprise
+ORD0152,2025-06-08,West,Mumbai,Home & Kitchen,Storage Box,1,699,0.1,330,Credit Card,Small Business
+ORD0197,2025-06-08,East,Patna,Accessories,Cable Pack,3,249,0.15,90,UPI,Individual
+ORD0341,2025-06-09,West,Mumbai,Accessories,Laptop Sleeve,1,899,0.05,420,Debit Card,Enterprise
+ORD0292,2025-06-09,West,Pune,Office Supplies,Office Chair,1,5999,0.0,3900,Cash on Delivery,Small Business
+ORD0322,2025-06-10,West,Pune,Office Supplies,Office Chair,3,5999,0.15,3900,Credit Card,Enterprise
+ORD0208,2025-06-10,South,Hyderabad,Accessories,Cable Pack,2,249,0.05,90,UPI,Individual
+ORD0010,2025-06-11,East,Bhubaneswar,Electronics,Keyboard,4,1299,0.1,720,Debit Card,Individual
+ORD0597,2025-06-12,South,Bengaluru,Electronics,Headphones,4,2499,0.05,1500,Cash on Delivery,Small Business
+ORD0198,2025-06-12,North,Jaipur,Accessories,Backpack,1,1799,0.15,950,Credit Card,Individual
+ORD0405,2025-06-13,South,Bengaluru,Electronics,USB Hub,5,999,0.05,560,Cash on Delivery,Small Business
+ORD0339,2025-06-14,South,Chennai,Home & Kitchen,Mixer Grinder,3,3499,0.1,2300,UPI,Enterprise
+ORD0283,2025-06-14,South,Chennai,Home & Kitchen,Storage Box,5,699,0.2,330,Debit Card,Enterprise
+ORD0017,2025-06-15,East,Kolkata,Electronics,Headphones,4,2499,0.15,1500,Debit Card,Individual
+ORD0109,2025-06-16,North,Jaipur,Home & Kitchen,Mixer Grinder,2,3499,0.0,2300,Cash on Delivery,Enterprise
+ORD0351,2025-06-17,South,Hyderabad,Office Supplies,Pen Set,2,199,0.0,80,Debit Card,Small Business
+ORD0065,2025-06-17,South,Chennai,Home & Kitchen,Mixer Grinder,3,3499,0.05,2300,Cash on Delivery,Small Business
+ORD0348,2025-06-17,West,Pune,Home & Kitchen,Storage Box,1,699,0.0,330,UPI,Individual
+ORD0161,2025-06-18,North,Chandigarh,Accessories,Backpack,1,1799,0.15,950,Credit Card,Small Business
+ORD0231,2025-06-19,South,Bengaluru,Accessories,Backpack,3,1799,0.0,950,Debit Card,Small Business
+ORD0409,2025-06-19,West,Pune,Home & Kitchen,LED Lamp,4,899,0.05,430,UPI,Small Business
+ORD0371,2025-06-19,North,Delhi,Home & Kitchen,Mixer Grinder,1,3499,0.15,2300,UPI,Enterprise
+ORD0355,2025-06-19,North,Delhi,Accessories,Laptop Sleeve,1,899,0.1,420,Cash on Delivery,Small Business
+ORD0412,2025-06-20,South,Chennai,Electronics,Wireless Mouse,2,799,0.0,420,Credit Card,Enterprise
+ORD0528,2025-06-21,West,Pune,Home & Kitchen,Mixer Grinder,1,3499,0.05,2300,Debit Card,Enterprise
+ORD0580,2025-06-22,North,Jaipur,Electronics,USB Hub,1,999,0.05,560,Cash on Delivery,Enterprise
+ORD0531,2025-06-22,East,Patna,Accessories,Laptop Sleeve,1,899,0.05,420,Debit Card,Small Business
+ORD0443,2025-06-23,North,Jaipur,Electronics,Wireless Mouse,3,799,0.05,420,Credit Card,Small Business
+ORD0119,2025-06-23,North,Jaipur,Electronics,Keyboard,3,1299,0.0,720,Cash on Delivery,Enterprise
+ORD0429,2025-06-25,South,Hyderabad,Accessories,Cable Pack,5,249,0.05,90,Cash on Delivery,Enterprise
+ORD0592,2025-06-27,West,Pune,Home & Kitchen,Storage Box,5,699,0.2,330,Debit Card,Individual
+ORD0244,2025-06-28,North,Delhi,Accessories,Phone Stand,3,399,0.0,150,UPI,Individual
+ORD0094,2025-06-28,East,Bhubaneswar,Home & Kitchen,Water Bottle,4,499,0.05,210,Cash on Delivery,Small Business
+ORD0142,2025-06-29,North,Delhi,Office Supplies,Office Chair,1,5999,0.1,3900,UPI,Individual
+ORD0153,2025-06-29,South,Hyderabad,Electronics,Keyboard,1,1299,0.0,720,Credit Card,Enterprise
+ORD0509,2025-06-30,East,Bhubaneswar,Office Supplies,Notebook Pack,3,299,0.0,145,UPI,Enterprise
+ORD0008,2025-07-01,South,Bengaluru,Home & Kitchen,Water Bottle,2,499,0.0,210,Credit Card,Individual
+ORD0407,2025-07-03,West,Mumbai,Office Supplies,Pen Set,1,199,0.0,80,Debit Card,Enterprise
+ORD0114,2025-07-03,West,Ahmedabad,Home & Kitchen,Water Bottle,5,499,0.1,210,Debit Card,Individual
+ORD0396,2025-07-04,South,Chennai,Home & Kitchen,LED Lamp,2,899,0.1,430,UPI,Enterprise
+ORD0427,2025-07-04,West,Pune,Electronics,Wireless Mouse,4,799,0.15,420,UPI,Individual
+ORD0276,2025-07-04,North,Delhi,Electronics,Headphones,2,2499,0.15,1500,UPI,Individual
+ORD0151,2025-07-05,North,Jaipur,Electronics,Keyboard,2,1299,0.05,720,UPI,Small Business
+ORD0522,2025-07-05,West,Mumbai,Home & Kitchen,Storage Box,1,699,0.2,330,Debit Card,Small Business
+ORD0367,2025-07-06,North,Jaipur,Accessories,Laptop Sleeve,1,899,0.05,420,Credit Card,Enterprise
+ORD0482,2025-07-06,North,Chandigarh,Office Supplies,Desk Organizer,3,599,0.0,300,Credit Card,Individual
+ORD0338,2025-07-06,East,Kolkata,Office Supplies,Notebook Pack,2,299,0.15,145,Cash on Delivery,Individual
+ORD0564,2025-07-07,South,Bengaluru,Electronics,Wireless Mouse,4,799,0.0,420,Cash on Delivery,Individual
+ORD0120,2025-07-07,North,Jaipur,Electronics,Headphones,2,2499,0.05,1500,Debit Card,Enterprise
+ORD0419,2025-07-07,North,Jaipur,Home & Kitchen,Water Bottle,2,499,0.0,210,UPI,Enterprise
+ORD0169,2025-07-08,East,Bhubaneswar,Home & Kitchen,LED Lamp,2,899,0.05,430,Credit Card,Individual
+ORD0126,2025-07-08,West,Mumbai,Accessories,Backpack,1,1799,0.0,950,Cash on Delivery,Individual
+ORD0382,2025-07-09,South,Chennai,Electronics,Headphones,2,2499,0.05,1500,Debit Card,Enterprise
+ORD0346,2025-07-10,East,Patna,Electronics,Wireless Mouse,2,799,0.1,420,Cash on Delivery,Individual
+ORD0160,2025-07-10,West,Pune,Accessories,Backpack,3,1799,0.0,950,Debit Card,Individual
+ORD0463,2025-07-11,East,Bhubaneswar,Electronics,Headphones,4,2499,0.0,1500,UPI,Individual
+ORD0300,2025-07-11,South,Bengaluru,Accessories,Cable Pack,2,249,0.1,90,Cash on Delivery,Individual
+ORD0374,2025-07-13,West,Ahmedabad,Accessories,Laptop Sleeve,3,899,0.15,420,Credit Card,Individual
+ORD0590,2025-07-14,North,Jaipur,Accessories,Laptop Sleeve,1,899,0.1,420,Cash on Delivery,Enterprise
+ORD0085,2025-07-14,East,Bhubaneswar,Home & Kitchen,LED Lamp,1,899,0.1,430,UPI,Individual
+ORD0121,2025-07-15,West,Mumbai,Office Supplies,Office Chair,1,5999,0.15,3900,Debit Card,Enterprise
+ORD0243,2025-07-15,East,Bhubaneswar,Accessories,Laptop Sleeve,3,899,0.1,420,Credit Card,Enterprise
+ORD0416,2025-07-16,West,Mumbai,Electronics,Wireless Mouse,1,799,0.05,420,Debit Card,Small Business
+ORD0446,2025-07-16,East,Patna,Office Supplies,Pen Set,2,199,0.05,80,Debit Card,Small Business
+ORD0506,2025-07-16,East,Patna,Home & Kitchen,Water Bottle,5,499,0.15,210,Cash on Delivery,Small Business
+ORD0327,2025-07-17,North,Delhi,Accessories,Laptop Sleeve,2,899,0.2,420,Debit Card,Small Business
+ORD0173,2025-07-17,North,Jaipur,Office Supplies,Notebook Pack,1,299,0.0,145,Debit Card,Individual
+ORD0567,2025-07-17,South,Hyderabad,Office Supplies,Desk Organizer,2,599,0.1,300,UPI,Enterprise
+ORD0406,2025-07-18,North,Chandigarh,Office Supplies,Pen Set,3,199,0.0,80,Cash on Delivery,Enterprise
+ORD0589,2025-07-18,West,Ahmedabad,Home & Kitchen,Water Bottle,1,499,0.15,210,Cash on Delivery,Individual
+ORD0467,2025-07-18,East,Patna,Accessories,Cable Pack,1,249,0.05,90,UPI,Enterprise
+ORD0551,2025-07-19,West,Pune,Office Supplies,Notebook Pack,3,299,0.1,145,UPI,Small Business
+ORD0209,2025-07-21,East,Kolkata,Office Supplies,Pen Set,1,199,0.05,80,Cash on Delivery,Small Business
+ORD0579,2025-07-21,East,Patna,Electronics,Keyboard,2,1299,0.15,720,Credit Card,Individual
+ORD0385,2025-07-22,North,Chandigarh,Office Supplies,Notebook Pack,5,299,0.05,145,Credit Card,Individual
+ORD0149,2025-07-23,North,Jaipur,Electronics,USB Hub,4,999,0.15,560,Cash on Delivery,Enterprise
+ORD0503,2025-07-23,South,Bengaluru,Electronics,Keyboard,2,1299,0.1,720,Credit Card,Individual
+ORD0381,2025-07-23,East,Bhubaneswar,Home & Kitchen,Water Bottle,2,499,0.05,210,Debit Card,Small Business
+ORD0569,2025-07-25,West,Ahmedabad,Office Supplies,Office Chair,4,5999,0.15,3900,Debit Card,Small Business
+ORD0492,2025-07-27,North,Chandigarh,Home & Kitchen,Water Bottle,1,499,0.1,210,Cash on Delivery,Small Business
+ORD0150,2025-07-27,East,Bhubaneswar,Electronics,USB Hub,1,999,0.05,560,Cash on Delivery,Enterprise
+ORD0235,2025-07-27,West,Ahmedabad,Electronics,Headphones,1,2499,0.0,1500,Credit Card,Small Business
+ORD0087,2025-07-29,East,Patna,Accessories,Backpack,1,1799,0.05,950,Debit Card,Enterprise
+ORD0378,2025-07-29,West,Ahmedabad,Home & Kitchen,Mixer Grinder,1,3499,0.0,2300,Cash on Delivery,Individual
+ORD0502,2025-07-31,East,Kolkata,Home & Kitchen,LED Lamp,1,899,0.05,430,Debit Card,Enterprise
+ORD0570,2025-07-31,East,Patna,Home & Kitchen,Storage Box,2,699,0.0,330,Debit Card,Small Business
+ORD0054,2025-08-01,South,Bengaluru,Accessories,Cable Pack,2,249,0.0,90,UPI,Individual
+ORD0060,2025-08-01,East,Bhubaneswar,Accessories,Cable Pack,1,249,0.15,90,Cash on Delivery,Enterprise
+ORD0431,2025-08-02,East,Patna,Accessories,Phone Stand,2,399,0.15,150,UPI,Enterprise
+ORD0178,2025-08-02,South,Bengaluru,Electronics,Headphones,1,2499,0.1,1500,UPI,Small Business
+ORD0002,2025-08-05,North,Delhi,Electronics,Keyboard,1,1299,0.1,720,Credit Card,Enterprise
+ORD0004,2025-08-05,West,Pune,Office Supplies,Desk Organizer,5,599,0.05,300,UPI,Small Business
+ORD0287,2025-08-05,East,Kolkata,Accessories,Cable Pack,2,249,0.1,90,Cash on Delivery,Enterprise
+ORD0055,2025-08-06,South,Hyderabad,Accessories,Laptop Sleeve,2,899,0.15,420,UPI,Small Business
+ORD0325,2025-08-08,West,Mumbai,Office Supplies,Pen Set,2,199,0.0,80,Debit Card,Enterprise
+ORD0146,2025-08-09,North,Jaipur,Accessories,Backpack,1,1799,0.05,950,UPI,Individual
+ORD0048,2025-08-09,North,Chandigarh,Home & Kitchen,Mixer Grinder,3,3499,0.0,2300,Debit Card,Enterprise
+ORD0148,2025-08-09,South,Hyderabad,Accessories,Phone Stand,2,399,0.15,150,Debit Card,Individual
+ORD0525,2025-08-10,East,Kolkata,Office Supplies,Desk Organizer,2,599,0.0,300,Cash on Delivery,Small Business
+ORD0199,2025-08-10,North,Delhi,Office Supplies,Pen Set,1,199,0.05,80,Credit Card,Small Business
+ORD0577,2025-08-11,East,Kolkata,Office Supplies,Notebook Pack,2,299,0.1,145,UPI,Small Business
+ORD0368,2025-08-12,East,Patna,Home & Kitchen,Storage Box,3,699,0.1,330,Debit Card,Individual
+ORD0117,2025-08-14,North,Chandigarh,Home & Kitchen,Storage Box,1,699,0.05,330,Cash on Delivery,Individual
+ORD0224,2025-08-15,West,Ahmedabad,Accessories,Phone Stand,1,399,0.1,150,Debit Card,Individual
+ORD0097,2025-08-15,North,Delhi,Home & Kitchen,Storage Box,4,699,0.05,330,Cash on Delivery,Individual
+ORD0598,2025-08-15,West,Mumbai,Office Supplies,Notebook Pack,1,299,0.0,145,Debit Card,Enterprise
+ORD0550,2025-08-15,South,Bengaluru,Electronics,Keyboard,2,1299,0.15,720,Credit Card,Small Business
+ORD0051,2025-08-15,East,Patna,Office Supplies,Office Chair,3,5999,0.2,3900,Credit Card,Enterprise
+ORD0145,2025-08-15,East,Bhubaneswar,Accessories,Cable Pack,1,249,0.15,90,UPI,Small Business
+ORD0538,2025-08-16,South,Bengaluru,Office Supplies,Office Chair,2,5999,0.1,3900,Cash on Delivery,Enterprise
+ORD0357,2025-08-17,South,Hyderabad,Office Supplies,Pen Set,2,199,0.15,80,Cash on Delivery,Individual
+ORD0478,2025-08-17,West,Pune,Accessories,Laptop Sleeve,1,899,0.1,420,Debit Card,Individual
+ORD0102,2025-08-17,East,Bhubaneswar,Home & Kitchen,LED Lamp,2,899,0.05,430,Credit Card,Enterprise
+ORD0530,2025-08-17,North,Jaipur,Home & Kitchen,LED Lamp,2,899,0.0,430,Credit Card,Enterprise
+ORD0057,2025-08-17,South,Bengaluru,Accessories,Cable Pack,1,249,0.0,90,Debit Card,Enterprise
+ORD0586,2025-08-19,East,Kolkata,Home & Kitchen,Storage Box,3,699,0.0,330,Debit Card,Enterprise
+ORD0524,2025-08-19,South,Bengaluru,Office Supplies,Desk Organizer,3,599,0.1,300,Credit Card,Enterprise
+ORD0545,2025-08-20,West,Ahmedabad,Accessories,Phone Stand,1,399,0.0,150,UPI,Individual
+ORD0021,2025-08-20,North,Delhi,Office Supplies,Notebook Pack,1,299,0.1,145,Credit Card,Enterprise
+ORD0375,2025-08-20,North,Delhi,Home & Kitchen,Water Bottle,1,499,0.2,210,UPI,Small Business
+ORD0571,2025-08-20,East,Bhubaneswar,Electronics,Wireless Mouse,5,799,0.1,420,Credit Card,Small Business
+ORD0136,2025-08-21,East,Bhubaneswar,Electronics,Headphones,2,2499,0.1,1500,Debit Card,Individual
+ORD0088,2025-08-21,North,Chandigarh,Office Supplies,Pen Set,3,199,0.1,80,Credit Card,Small Business
+ORD0204,2025-08-21,North,Chandigarh,Electronics,Keyboard,2,1299,0.05,720,Credit Card,Small Business
+ORD0029,2025-08-21,West,Pune,Accessories,Phone Stand,1,399,0.0,150,UPI,Enterprise
+ORD0485,2025-08-21,North,Delhi,Home & Kitchen,Water Bottle,3,499,0.1,210,Debit Card,Enterprise
+ORD0317,2025-08-22,North,Jaipur,Office Supplies,Desk Organizer,4,599,0.05,300,Debit Card,Individual
+ORD0336,2025-08-22,West,Mumbai,Accessories,Phone Stand,1,399,0.05,150,UPI,Enterprise
+ORD0214,2025-08-22,South,Bengaluru,Office Supplies,Pen Set,4,199,0.05,80,Cash on Delivery,Enterprise
+ORD0513,2025-08-23,East,Patna,Electronics,USB Hub,1,999,0.0,560,Credit Card,Enterprise
+ORD0009,2025-08-25,East,Bhubaneswar,Office Supplies,Pen Set,4,199,0.15,80,Credit Card,Individual
+ORD0181,2025-08-26,East,Patna,Office Supplies,Desk Organizer,1,599,0.15,300,Cash on Delivery,Individual
+ORD0257,2025-08-27,West,Pune,Home & Kitchen,Mixer Grinder,2,3499,0.05,2300,UPI,Enterprise
+ORD0565,2025-08-28,North,Jaipur,Accessories,Backpack,3,1799,0.0,950,Debit Card,Enterprise
+ORD0258,2025-08-29,West,Mumbai,Home & Kitchen,Mixer Grinder,2,3499,0.1,2300,Credit Card,Enterprise
+ORD0549,2025-08-29,South,Hyderabad,Home & Kitchen,LED Lamp,3,899,0.0,430,Credit Card,Small Business
+ORD0179,2025-08-29,North,Chandigarh,Accessories,Backpack,1,1799,0.0,950,UPI,Small Business
+ORD0505,2025-08-30,East,Kolkata,Electronics,Headphones,1,2499,0.0,1500,UPI,Enterprise
+ORD0361,2025-08-30,West,Ahmedabad,Office Supplies,Desk Organizer,1,599,0.1,300,Debit Card,Enterprise
+ORD0226,2025-08-30,North,Chandigarh,Office Supplies,Notebook Pack,5,299,0.2,145,Credit Card,Small Business
+ORD0024,2025-08-31,East,Kolkata,Electronics,Wireless Mouse,2,799,0.05,420,Cash on Delivery,Small Business
+ORD0252,2025-08-31,South,Hyderabad,Home & Kitchen,Storage Box,3,699,0.15,330,Cash on Delivery,Small Business
+ORD0183,2025-08-31,West,Mumbai,Office Supplies,Pen Set,1,199,0.15,80,Debit Card,Small Business
+ORD0320,2025-09-02,North,Delhi,Office Supplies,Office Chair,1,5999,0.1,3900,UPI,Small Business
+ORD0430,2025-09-02,East,Patna,Office Supplies,Notebook Pack,1,299,0.1,145,Credit Card,Individual
+ORD0552,2025-09-04,West,Mumbai,Home & Kitchen,Water Bottle,4,499,0.0,210,UPI,Individual
+ORD0140,2025-09-04,South,Hyderabad,Home & Kitchen,Mixer Grinder,1,3499,0.05,2300,Credit Card,Small Business
+ORD0498,2025-09-04,East,Bhubaneswar,Electronics,USB Hub,1,999,0.05,560,Credit Card,Individual
+ORD0221,2025-09-05,South,Hyderabad,Home & Kitchen,Mixer Grinder,1,3499,0.2,2300,Debit Card,Small Business
+ORD0100,2025-09-05,East,Kolkata,Accessories,Phone Stand,2,399,0.15,150,Credit Card,Individual
+ORD0587,2025-09-05,South,Bengaluru,Electronics,USB Hub,2,999,0.1,560,UPI,Small Business
+ORD0058,2025-09-06,South,Chennai,Accessories,Laptop Sleeve,3,899,0.0,420,Debit Card,Small Business
+ORD0028,2025-09-06,East,Kolkata,Accessories,Laptop Sleeve,1,899,0.0,420,Cash on Delivery,Small Business
+ORD0165,2025-09-06,South,Hyderabad,Office Supplies,Desk Organizer,1,599,0.15,300,UPI,Enterprise
+ORD0394,2025-09-06,West,Mumbai,Office Supplies,Notebook Pack,1,299,0.1,145,Credit Card,Enterprise
+ORD0301,2025-09-07,South,Bengaluru,Office Supplies,Office Chair,1,5999,0.0,3900,Cash on Delivery,Enterprise
+ORD0556,2025-09-07,South,Chennai,Home & Kitchen,LED Lamp,3,899,0.0,430,Cash on Delivery,Small Business
+ORD0264,2025-09-07,North,Delhi,Accessories,Laptop Sleeve,1,899,0.1,420,Debit Card,Individual
+ORD0038,2025-09-08,West,Mumbai,Electronics,USB Hub,3,999,0.0,560,Debit Card,Individual
+ORD0547,2025-09-10,South,Chennai,Accessories,Backpack,3,1799,0.05,950,Debit Card,Small Business
+ORD0315,2025-09-11,West,Pune,Home & Kitchen,Mixer Grinder,2,3499,0.0,2300,Cash on Delivery,Small Business
+ORD0229,2025-09-11,South,Bengaluru,Home & Kitchen,Water Bottle,1,499,0.1,210,UPI,Small Business
+ORD0424,2025-09-12,South,Bengaluru,Accessories,Backpack,1,1799,0.0,950,UPI,Individual
+ORD0334,2025-09-12,West,Ahmedabad,Home & Kitchen,Storage Box,1,699,0.1,330,Debit Card,Enterprise
+ORD0437,2025-09-13,East,Bhubaneswar,Electronics,USB Hub,3,999,0.0,560,Cash on Delivery,Small Business
+ORD0496,2025-09-15,North,Delhi,Accessories,Phone Stand,4,399,0.1,150,UPI,Enterprise
+ORD0600,2025-09-15,East,Patna,Home & Kitchen,Storage Box,4,699,0.05,330,Credit Card,Individual
+ORD0265,2025-09-15,East,Kolkata,Electronics,Wireless Mouse,2,799,0.0,420,Debit Card,Small Business
+ORD0238,2025-09-16,South,Bengaluru,Office Supplies,Desk Organizer,1,599,0.1,300,UPI,Enterprise
+ORD0016,2025-09-17,South,Hyderabad,Home & Kitchen,Storage Box,2,699,0.15,330,UPI,Enterprise
+ORD0071,2025-09-17,West,Mumbai,Accessories,Cable Pack,1,249,0.2,90,Cash on Delivery,Enterprise
+ORD0031,2025-09-18,North,Delhi,Electronics,Wireless Mouse,3,799,0.0,420,UPI,Enterprise
+ORD0573,2025-09-19,South,Hyderabad,Electronics,USB Hub,1,999,0.0,560,Debit Card,Enterprise
+ORD0305,2025-09-19,North,Chandigarh,Electronics,Headphones,3,2499,0.15,1500,Debit Card,Enterprise
+ORD0512,2025-09-20,West,Ahmedabad,Home & Kitchen,LED Lamp,5,899,0.1,430,Credit Card,Small Business
+ORD0023,2025-09-21,South,Chennai,Accessories,Phone Stand,2,399,0.1,150,Cash on Delivery,Individual
+ORD0313,2025-09-21,West,Ahmedabad,Home & Kitchen,LED Lamp,5,899,0.05,430,UPI,Enterprise
+ORD0177,2025-09-21,South,Bengaluru,Office Supplies,Pen Set,2,199,0.1,80,Credit Card,Enterprise
+ORD0096,2025-09-21,North,Chandigarh,Accessories,Cable Pack,1,249,0.1,90,Cash on Delivery,Enterprise
+ORD0171,2025-09-22,North,Jaipur,Electronics,Keyboard,1,1299,0.15,720,Credit Card,Small Business
+ORD0192,2025-09-23,East,Patna,Electronics,Headphones,3,2499,0.1,1500,Credit Card,Enterprise
+ORD0093,2025-09-23,East,Bhubaneswar,Office Supplies,Office Chair,2,5999,0.05,3900,UPI,Small Business
+ORD0200,2025-09-23,West,Mumbai,Home & Kitchen,Storage Box,2,699,0.1,330,Credit Card,Enterprise
+ORD0388,2025-09-24,East,Kolkata,Accessories,Laptop Sleeve,2,899,0.0,420,UPI,Individual
+ORD0279,2025-09-24,South,Bengaluru,Accessories,Phone Stand,1,399,0.05,150,Cash on Delivery,Individual
+ORD0459,2025-09-24,North,Chandigarh,Office Supplies,Office Chair,2,5999,0.05,3900,Debit Card,Individual
+ORD0402,2025-09-24,East,Patna,Electronics,Wireless Mouse,2,799,0.1,420,Debit Card,Enterprise
+ORD0562,2025-09-25,North,Delhi,Office Supplies,Desk Organizer,4,599,0.0,300,Cash on Delivery,Individual
+ORD0495,2025-09-25,East,Kolkata,Electronics,Keyboard,2,1299,0.1,720,UPI,Enterprise
+ORD0441,2025-09-25,West,Ahmedabad,Electronics,Wireless Mouse,4,799,0.05,420,Cash on Delivery,Individual
+ORD0561,2025-09-26,East,Patna,Office Supplies,Pen Set,1,199,0.1,80,UPI,Individual
+ORD0578,2025-09-26,North,Jaipur,Office Supplies,Pen Set,2,199,0.0,80,UPI,Enterprise
+ORD0520,2025-09-27,East,Bhubaneswar,Electronics,Headphones,2,2499,0.1,1500,Credit Card,Small Business
+ORD0559,2025-09-29,South,Chennai,Home & Kitchen,Mixer Grinder,2,3499,0.05,2300,Cash on Delivery,Enterprise
+ORD0143,2025-09-29,South,Chennai,Accessories,Cable Pack,1,249,0.05,90,Debit Card,Enterprise
+ORD0470,2025-10-01,South,Hyderabad,Accessories,Backpack,5,1799,0.0,950,Debit Card,Individual
+ORD0450,2025-10-01,West,Pune,Electronics,Wireless Mouse,1,799,0.0,420,UPI,Individual
+ORD0079,2025-10-02,South,Hyderabad,Office Supplies,Office Chair,1,5999,0.1,3900,Debit Card,Individual
+ORD0026,2025-10-02,East,Kolkata,Accessories,Phone Stand,1,399,0.0,150,UPI,Small Business
+ORD0210,2025-10-02,North,Delhi,Accessories,Phone Stand,4,399,0.1,150,Cash on Delivery,Small Business
+ORD0062,2025-10-03,South,Chennai,Office Supplies,Pen Set,2,199,0.0,80,Debit Card,Enterprise
+ORD0479,2025-10-03,South,Chennai,Electronics,Wireless Mouse,4,799,0.15,420,UPI,Enterprise
+ORD0166,2025-10-04,North,Chandigarh,Home & Kitchen,Storage Box,2,699,0.0,330,Credit Card,Enterprise
+ORD0059,2025-10-04,North,Delhi,Office Supplies,Desk Organizer,2,599,0.0,300,Credit Card,Individual
+ORD0091,2025-10-04,East,Bhubaneswar,Electronics,Wireless Mouse,4,799,0.1,420,Debit Card,Individual
+ORD0449,2025-10-05,West,Ahmedabad,Electronics,Headphones,2,2499,0.1,1500,Cash on Delivery,Enterprise
+ORD0030,2025-10-05,North,Chandigarh,Home & Kitchen,Water Bottle,1,499,0.05,210,Credit Card,Individual
+ORD0452,2025-10-05,North,Jaipur,Accessories,Laptop Sleeve,2,899,0.1,420,Credit Card,Enterprise
+ORD0359,2025-10-06,North,Jaipur,Home & Kitchen,LED Lamp,2,899,0.05,430,Debit Card,Small Business
+ORD0027,2025-10-09,North,Delhi,Electronics,Wireless Mouse,4,799,0.15,420,Credit Card,Small Business
+ORD0006,2025-10-10,West,Ahmedabad,Home & Kitchen,Storage Box,3,699,0.0,330,Credit Card,Small Business
+ORD0471,2025-10-11,South,Hyderabad,Electronics,Wireless Mouse,2,799,0.05,420,UPI,Small Business
+ORD0037,2025-10-11,South,Chennai,Home & Kitchen,Storage Box,3,699,0.0,330,Debit Card,Enterprise
+ORD0274,2025-10-11,East,Bhubaneswar,Office Supplies,Office Chair,1,5999,0.1,3900,Credit Card,Enterprise
+ORD0138,2025-10-12,North,Chandigarh,Home & Kitchen,Water Bottle,2,499,0.15,210,Cash on Delivery,Enterprise
+ORD0253,2025-10-13,South,Chennai,Office Supplies,Pen Set,1,199,0.1,80,Cash on Delivery,Small Business
+ORD0163,2025-10-14,East,Patna,Home & Kitchen,Storage Box,3,699,0.15,330,UPI,Enterprise
+ORD0408,2025-10-14,South,Bengaluru,Home & Kitchen,Water Bottle,1,499,0.0,210,Debit Card,Small Business
+ORD0141,2025-10-15,North,Chandigarh,Home & Kitchen,Water Bottle,1,499,0.1,210,Debit Card,Small Business
+ORD0206,2025-10-15,North,Jaipur,Office Supplies,Office Chair,1,5999,0.05,3900,Credit Card,Individual
+ORD0084,2025-10-16,West,Mumbai,Office Supplies,Notebook Pack,2,299,0.05,145,Credit Card,Enterprise
+ORD0389,2025-10-16,North,Jaipur,Home & Kitchen,LED Lamp,1,899,0.1,430,Cash on Delivery,Individual
+ORD0270,2025-10-16,North,Delhi,Home & Kitchen,Water Bottle,5,499,0.1,210,Cash on Delivery,Individual
+ORD0115,2025-10-17,North,Chandigarh,Accessories,Backpack,3,1799,0.0,950,Debit Card,Individual
+ORD0155,2025-10-17,West,Ahmedabad,Home & Kitchen,Storage Box,2,699,0.05,330,Debit Card,Small Business
+ORD0483,2025-10-17,South,Bengaluru,Accessories,Backpack,1,1799,0.15,950,Credit Card,Individual
+ORD0558,2025-10-18,South,Bengaluru,Home & Kitchen,Mixer Grinder,3,3499,0.05,2300,Credit Card,Individual
+ORD0190,2025-10-18,North,Chandigarh,Office Supplies,Office Chair,5,5999,0.05,3900,UPI,Enterprise
+ORD0232,2025-10-18,South,Hyderabad,Accessories,Cable Pack,2,249,0.0,90,UPI,Individual
+ORD0599,2025-10-18,South,Bengaluru,Office Supplies,Desk Organizer,3,599,0.05,300,Cash on Delivery,Individual
+ORD0395,2025-10-19,North,Delhi,Office Supplies,Desk Organizer,3,599,0.0,300,Cash on Delivery,Individual
+ORD0309,2025-10-19,West,Ahmedabad,Home & Kitchen,Storage Box,1,699,0.1,330,Debit Card,Enterprise
+ORD0158,2025-10-20,South,Chennai,Accessories,Phone Stand,5,399,0.05,150,Debit Card,Enterprise
+ORD0228,2025-10-21,South,Bengaluru,Electronics,Keyboard,2,1299,0.15,720,UPI,Small Business
+ORD0425,2025-10-21,East,Kolkata,Electronics,Wireless Mouse,3,799,0.0,420,Debit Card,Enterprise
+ORD0082,2025-10-21,West,Pune,Accessories,Cable Pack,1,249,0.2,90,Debit Card,Small Business
+ORD0519,2025-10-22,West,Pune,Office Supplies,Pen Set,2,199,0.15,80,Credit Card,Individual
+ORD0568,2025-10-23,West,Ahmedabad,Accessories,Cable Pack,4,249,0.0,90,Credit Card,Enterprise
+ORD0312,2025-10-23,West,Ahmedabad,Accessories,Cable Pack,2,249,0.1,90,UPI,Small Business
+ORD0445,2025-10-24,South,Bengaluru,Office Supplies,Notebook Pack,2,299,0.1,145,Debit Card,Enterprise
+ORD0480,2025-10-24,East,Patna,Office Supplies,Notebook Pack,2,299,0.1,145,Cash on Delivery,Enterprise
+ORD0069,2025-10-24,North,Jaipur,Accessories,Cable Pack,5,249,0.0,90,Credit Card,Individual
+ORD0111,2025-10-26,South,Hyderabad,Accessories,Backpack,2,1799,0.1,950,Cash on Delivery,Small Business
+ORD0476,2025-10-27,South,Bengaluru,Home & Kitchen,Mixer Grinder,5,3499,0.0,2300,Debit Card,Individual
+ORD0501,2025-10-27,West,Pune,Accessories,Backpack,2,1799,0.2,950,Cash on Delivery,Individual
+ORD0012,2025-10-27,East,Patna,Accessories,Backpack,1,1799,0.2,950,Cash on Delivery,Individual
+ORD0533,2025-10-28,East,Bhubaneswar,Office Supplies,Desk Organizer,4,599,0.0,300,Credit Card,Enterprise
+ORD0255,2025-10-28,South,Chennai,Office Supplies,Pen Set,1,199,0.15,80,Credit Card,Individual
+ORD0354,2025-10-28,West,Mumbai,Electronics,Wireless Mouse,1,799,0.1,420,Credit Card,Individual
+ORD0308,2025-10-29,West,Ahmedabad,Accessories,Phone Stand,2,399,0.15,150,Credit Card,Individual
+ORD0156,2025-10-30,North,Jaipur,Electronics,Headphones,2,2499,0.0,1500,Debit Card,Small Business
+ORD0347,2025-10-31,North,Jaipur,Office Supplies,Desk Organizer,1,599,0.15,300,Cash on Delivery,Enterprise
+ORD0296,2025-10-31,East,Bhubaneswar,Electronics,Keyboard,1,1299,0.15,720,UPI,Enterprise
+ORD0064,2025-10-31,North,Delhi,Accessories,Phone Stand,4,399,0.0,150,Debit Card,Small Business
+ORD0090,2025-11-01,West,Pune,Electronics,USB Hub,3,999,0.1,560,Debit Card,Enterprise
+ORD0144,2025-11-02,North,Delhi,Office Supplies,Desk Organizer,3,599,0.0,300,UPI,Small Business
+ORD0075,2025-11-02,West,Ahmedabad,Electronics,Keyboard,1,1299,0.1,720,Cash on Delivery,Enterprise
+ORD0278,2025-11-03,West,Pune,Electronics,Headphones,2,2499,0.15,1500,Credit Card,Enterprise
+ORD0135,2025-11-06,East,Kolkata,Electronics,Keyboard,2,1299,0.15,720,Cash on Delivery,Small Business
+ORD0170,2025-11-06,South,Chennai,Electronics,USB Hub,4,999,0.1,560,UPI,Enterprise
+ORD0595,2025-11-06,West,Pune,Office Supplies,Desk Organizer,2,599,0.1,300,Credit Card,Individual
+ORD0273,2025-11-06,East,Bhubaneswar,Electronics,Headphones,3,2499,0.05,1500,Credit Card,Small Business
+ORD0205,2025-11-07,South,Chennai,Home & Kitchen,Mixer Grinder,5,3499,0.0,2300,Debit Card,Enterprise
+ORD0047,2025-11-07,North,Jaipur,Office Supplies,Pen Set,1,199,0.05,80,Credit Card,Small Business
+ORD0422,2025-11-07,South,Chennai,Electronics,Wireless Mouse,1,799,0.15,420,Cash on Delivery,Individual
+ORD0529,2025-11-07,South,Bengaluru,Office Supplies,Pen Set,1,199,0.1,80,Cash on Delivery,Enterprise
+ORD0423,2025-11-08,South,Chennai,Office Supplies,Pen Set,3,199,0.05,80,UPI,Enterprise
+ORD0168,2025-11-09,West,Ahmedabad,Accessories,Phone Stand,2,399,0.05,150,Cash on Delivery,Individual
+ORD0333,2025-11-10,North,Jaipur,Office Supplies,Notebook Pack,1,299,0.0,145,UPI,Individual
+ORD0458,2025-11-12,West,Pune,Home & Kitchen,Water Bottle,3,499,0.05,210,Credit Card,Individual
+ORD0324,2025-11-12,East,Kolkata,Electronics,Wireless Mouse,1,799,0.0,420,Cash on Delivery,Small Business
+ORD0282,2025-11-14,East,Bhubaneswar,Accessories,Backpack,2,1799,0.15,950,Credit Card,Small Business
+ORD0342,2025-11-15,South,Chennai,Home & Kitchen,LED Lamp,5,899,0.15,430,Credit Card,Individual
+ORD0167,2025-11-16,South,Bengaluru,Accessories,Laptop Sleeve,2,899,0.1,420,Credit Card,Small Business
+ORD0107,2025-11-17,East,Patna,Electronics,Wireless Mouse,1,799,0.1,420,Debit Card,Individual
+ORD0319,2025-11-17,West,Ahmedabad,Office Supplies,Office Chair,2,5999,0.1,3900,UPI,Individual
+ORD0086,2025-11-17,South,Chennai,Electronics,Keyboard,1,1299,0.1,720,Credit Card,Individual
+ORD0593,2025-11-17,West,Pune,Electronics,Headphones,1,2499,0.05,1500,Cash on Delivery,Enterprise
+ORD0295,2025-11-19,South,Hyderabad,Accessories,Cable Pack,1,249,0.1,90,Credit Card,Small Business
+ORD0455,2025-11-21,West,Ahmedabad,Office Supplies,Desk Organizer,1,599,0.0,300,UPI,Individual
+ORD0553,2025-11-21,East,Bhubaneswar,Electronics,Keyboard,3,1299,0.1,720,Cash on Delivery,Individual
+ORD0116,2025-11-22,South,Bengaluru,Home & Kitchen,Storage Box,2,699,0.15,330,UPI,Small Business
+ORD0039,2025-11-23,West,Mumbai,Accessories,Cable Pack,2,249,0.0,90,Credit Card,Enterprise
+ORD0268,2025-11-23,North,Chandigarh,Office Supplies,Notebook Pack,2,299,0.05,145,Debit Card,Enterprise
+ORD0539,2025-11-24,West,Pune,Accessories,Phone Stand,3,399,0.05,150,Debit Card,Small Business
+ORD0001,2025-11-24,North,Delhi,Home & Kitchen,Storage Box,1,699,0.1,330,UPI,Enterprise
+ORD0298,2025-11-24,West,Ahmedabad,Accessories,Cable Pack,2,249,0.05,90,Cash on Delivery,Enterprise
+ORD0188,2025-11-24,North,Delhi,Accessories,Backpack,2,1799,0.1,950,Credit Card,Individual
+ORD0203,2025-11-24,North,Jaipur,Home & Kitchen,Mixer Grinder,2,3499,0.15,2300,Cash on Delivery,Small Business
+ORD0576,2025-11-25,West,Mumbai,Accessories,Laptop Sleeve,3,899,0.15,420,Debit Card,Small Business
+ORD0436,2025-11-26,East,Bhubaneswar,Office Supplies,Notebook Pack,2,299,0.15,145,Cash on Delivery,Individual
+ORD0403,2025-11-28,West,Pune,Electronics,USB Hub,1,999,0.2,560,Debit Card,Small Business
+ORD0399,2025-11-28,South,Bengaluru,Office Supplies,Pen Set,2,199,0.1,80,UPI,Small Business
+ORD0453,2025-11-28,East,Kolkata,Home & Kitchen,Water Bottle,4,499,0.05,210,Debit Card,Enterprise
+ORD0289,2025-11-28,North,Chandigarh,Accessories,Backpack,5,1799,0.05,950,UPI,Individual
+ORD0003,2025-11-29,East,Kolkata,Accessories,Backpack,3,1799,0.0,950,Credit Card,Enterprise
+ORD0497,2025-11-29,East,Patna,Accessories,Backpack,4,1799,0.1,950,Cash on Delivery,Individual
+ORD0544,2025-11-29,West,Pune,Office Supplies,Notebook Pack,1,299,0.05,145,Cash on Delivery,Enterprise
+ORD0461,2025-11-29,North,Delhi,Home & Kitchen,LED Lamp,1,899,0.1,430,Credit Card,Individual
+ORD0532,2025-12-01,West,Ahmedabad,Home & Kitchen,LED Lamp,1,899,0.05,430,Debit Card,Enterprise
+ORD0036,2025-12-01,North,Chandigarh,Home & Kitchen,Water Bottle,4,499,0.0,210,UPI,Individual
+ORD0227,2025-12-01,East,Bhubaneswar,Office Supplies,Pen Set,1,199,0.1,80,UPI,Enterprise
+ORD0318,2025-12-02,West,Pune,Electronics,Headphones,3,2499,0.1,1500,UPI,Small Business
+ORD0011,2025-12-02,East,Bhubaneswar,Accessories,Phone Stand,1,399,0.0,150,Debit Card,Enterprise
+ORD0019,2025-12-04,East,Patna,Office Supplies,Pen Set,2,199,0.1,80,Credit Card,Enterprise
+ORD0434,2025-12-06,East,Kolkata,Electronics,Wireless Mouse,2,799,0.0,420,Cash on Delivery,Small Business
+ORD0428,2025-12-06,South,Chennai,Home & Kitchen,LED Lamp,5,899,0.05,430,UPI,Small Business
+ORD0127,2025-12-06,South,Bengaluru,Electronics,Wireless Mouse,3,799,0.0,420,Credit Card,Enterprise
+ORD0095,2025-12-06,East,Patna,Electronics,USB Hub,1,999,0.05,560,UPI,Small Business
+ORD0104,2025-12-06,South,Chennai,Electronics,Keyboard,2,1299,0.1,720,UPI,Small Business
+ORD0518,2025-12-06,East,Patna,Electronics,Wireless Mouse,4,799,0.05,420,Debit Card,Small Business
+ORD0369,2025-12-07,South,Chennai,Home & Kitchen,Mixer Grinder,1,3499,0.1,2300,Cash on Delivery,Enterprise
+ORD0043,2025-12-09,South,Chennai,Office Supplies,Notebook Pack,2,299,0.0,145,Cash on Delivery,Individual
+ORD0251,2025-12-10,East,Patna,Home & Kitchen,LED Lamp,2,899,0.05,430,Credit Card,Enterprise
+ORD0164,2025-12-10,East,Patna,Home & Kitchen,Water Bottle,1,499,0.0,210,Credit Card,Small Business
+ORD0124,2025-12-10,East,Patna,Office Supplies,Office Chair,2,5999,0.15,3900,Cash on Delivery,Small Business
+ORD0372,2025-12-10,West,Pune,Electronics,Headphones,1,2499,0.1,1500,Debit Card,Small Business
+ORD0340,2025-12-11,North,Delhi,Office Supplies,Notebook Pack,5,299,0.0,145,Cash on Delivery,Small Business
+ORD0490,2025-12-12,East,Bhubaneswar,Office Supplies,Desk Organizer,2,599,0.05,300,Credit Card,Individual
+ORD0337,2025-12-12,North,Delhi,Electronics,Wireless Mouse,4,799,0.0,420,UPI,Small Business
+ORD0112,2025-12-13,South,Hyderabad,Accessories,Backpack,5,1799,0.05,950,Cash on Delivery,Enterprise
+ORD0415,2025-12-13,North,Chandigarh,Office Supplies,Desk Organizer,3,599,0.05,300,Credit Card,Individual
+ORD0323,2025-12-13,South,Hyderabad,Electronics,Keyboard,2,1299,0.1,720,Credit Card,Small Business
+ORD0063,2025-12-14,East,Patna,Office Supplies,Office Chair,4,5999,0.2,3900,UPI,Small Business
+ORD0237,2025-12-15,North,Chandigarh,Accessories,Backpack,1,1799,0.1,950,UPI,Enterprise
+ORD0110,2025-12-16,South,Hyderabad,Office Supplies,Notebook Pack,2,299,0.05,145,Credit Card,Small Business
+ORD0316,2025-12-16,North,Delhi,Electronics,USB Hub,1,999,0.15,560,Credit Card,Small Business
+ORD0194,2025-12-16,West,Ahmedabad,Home & Kitchen,Water Bottle,2,499,0.05,210,Debit Card,Individual
+ORD0462,2025-12-16,West,Pune,Electronics,USB Hub,1,999,0.1,560,UPI,Enterprise
+ORD0267,2025-12-17,North,Chandigarh,Electronics,Wireless Mouse,2,799,0.05,420,Cash on Delivery,Individual
+ORD0303,2025-12-17,East,Bhubaneswar,Accessories,Cable Pack,1,249,0.1,90,Credit Card,Small Business
+ORD0417,2025-12-18,South,Chennai,Accessories,Backpack,3,1799,0.0,950,Cash on Delivery,Individual
+ORD0137,2025-12-18,East,Kolkata,Electronics,Wireless Mouse,1,799,0.0,420,Debit Card,Individual
+ORD0494,2025-12-18,West,Pune,Electronics,Keyboard,1,1299,0.0,720,UPI,Individual
+ORD0020,2025-12-20,South,Bengaluru,Home & Kitchen,LED Lamp,5,899,0.1,430,Cash on Delivery,Enterprise
+ORD0527,2025-12-20,South,Hyderabad,Office Supplies,Pen Set,2,199,0.1,80,Cash on Delivery,Enterprise
+ORD0187,2025-12-20,East,Bhubaneswar,Accessories,Laptop Sleeve,3,899,0.15,420,Cash on Delivery,Small Business
+ORD0185,2025-12-21,East,Bhubaneswar,Home & Kitchen,Water Bottle,3,499,0.0,210,Credit Card,Enterprise
+ORD0077,2025-12-21,South,Chennai,Home & Kitchen,LED Lamp,2,899,0.05,430,Debit Card,Small Business
+ORD0284,2025-12-22,East,Patna,Office Supplies,Pen Set,1,199,0.15,80,Cash on Delivery,Small Business
+ORD0321,2025-12-22,South,Chennai,Electronics,Keyboard,2,1299,0.1,720,UPI,Individual
+ORD0548,2025-12-23,North,Jaipur,Electronics,Keyboard,1,1299,0.15,720,UPI,Enterprise
+ORD0061,2025-12-23,North,Chandigarh,Accessories,Cable Pack,1,249,0.05,90,Cash on Delivery,Small Business
+ORD0070,2025-12-23,West,Ahmedabad,Electronics,Wireless Mouse,1,799,0.05,420,Debit Card,Individual
+ORD0332,2025-12-24,East,Patna,Office Supplies,Notebook Pack,1,299,0.15,145,UPI,Small Business
+ORD0068,2025-12-25,West,Pune,Office Supplies,Notebook Pack,3,299,0.0,145,Debit Card,Individual
+ORD0421,2025-12-26,South,Hyderabad,Electronics,Headphones,2,2499,0.0,1500,Debit Card,Enterprise
+ORD0078,2025-12-26,East,Bhubaneswar,Home & Kitchen,Mixer Grinder,1,3499,0.1,2300,Debit Card,Individual
+ORD0514,2025-12-26,South,Chennai,Accessories,Backpack,2,1799,0.0,950,Debit Card,Individual
+ORD0222,2025-12-27,South,Bengaluru,Accessories,Backpack,2,1799,0.1,950,Debit Card,Small Business
+ORD0433,2025-12-27,South,Bengaluru,Home & Kitchen,Water Bottle,2,499,0.1,210,Cash on Delivery,Small Business
+ORD0263,2025-12-29,South,Hyderabad,Office Supplies,Office Chair,1,5999,0.1,3900,Cash on Delivery,Enterprise
+ORD0401,2025-12-30,West,Pune,Accessories,Backpack,2,1799,0.0,950,Debit Card,Enterprise
+ORD0195,2025-12-31,South,Chennai,Office Supplies,Notebook Pack,5,299,0.15,145,Credit Card,Small Business
+ORD0591,2025-12-31,North,Delhi,Office Supplies,Pen Set,1,199,0.05,80,Credit Card,Individual
