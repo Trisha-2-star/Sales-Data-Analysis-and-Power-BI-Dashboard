@@ -84,4 +84,4 @@ Use your actual query/dashboard results; do not guess. Examples of questions to 
 **Sales Data Analysis and Power BI Dashboard | SQL, Excel, Power BI**
 Analyzed 600 sales records using SQL and Excel to evaluate monthly revenue, product performance, regional sales, and profitability; built an interactive Power BI dashboard with KPI cards, trend charts, and filters to communicate data-driven insights.
 
-Before using the bullet, verify that you actually complete each listed activity and adjust it to match your work.
+
